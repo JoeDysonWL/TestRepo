@@ -1,0 +1,4 @@
+#test that an empty gitignore will keep the folder
+*
+#exclude this file
+!.gitignore
